@@ -5,5 +5,5 @@
 
 # Functional View
 
-The view provides a good overview of the functionality of the overall system as seen by business people. 
+The view provides a comperhensive overview of the functionality of the overall system as seen by a business person. 
 

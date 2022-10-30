@@ -1,6 +1,6 @@
 # Webmasters
 
-Entry to the O'Reilly Autumn 2022 Architectural Kata
+Entry to the O'Reilly Autumn 2022 Architectural Kata.
 
 ## Members
 
@@ -10,12 +10,13 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata
 
 ## 1. Problem Analysis
 
-- Prelude
-- Business Goals and Drivers
-- Stakeholder Concers
-- Business Requirements
-    - Functional Requirements
-    - Non-Functional Requirements
+- [Prelude](1.%20Problem%20Analysis/Prelude/README.md)
+- [Business Goals and Drivers](1.%20Problem%20Analysis/Business%20Goals%20and%20Drivers/README.md)
+- [Stakeholder Concerns](./1.%20Problem%20Analysis/Stakeholder%20Concerns/README.md)
+- [Constraints](./1.%20Problem%20Analysis/Constraints/README.md)
+- [Business Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md)
+    - [Functional Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md#functional-requirements)
+    - [Non-Functional Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md#non-functional-requirements)
 
 ## 2. Solution
 
