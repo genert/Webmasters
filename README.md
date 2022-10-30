@@ -17,15 +17,14 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata
     - Functional Requirements
     - Non-Functional Requirements
 
-
 ## 2. Solution
 
-- Architecture Principles
-- Architecture Characteristics
-- Security
-- Deployment
-- Roadmap
-- Reporting
+- [Architecture Principles](2.%20Solution/Architecture%20Principles/README.md)
+- [Architecture Style Analysis](./2.%20Solution/Architecture%20Style%20Analysis/README.md)
+- [Security](2.%20Solution/Security/README.md)
+- [Deployment](2.%20Solution/Deployment/README.md)
+- [Roadmap](2.%20Solution/Roadmap/README.md)
+- [Reporting & Analytics](2.%20Solution/Reporting%20and%20Analytics/README.md)
 - [Architecture Solution Records (ADRs)](2.%20Solution/ADRs/README.md)
 
 ## 3. Views
