@@ -11,6 +11,7 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata.
 ## 1. Problem Analysis
 
 - [Prelude](1.%20Problem%20Analysis/Prelude/README.md)
+    - [Vision](1.%20Problem%20Analysis/Prelude/README.md#vision)
 - [Business Goals and Drivers](1.%20Problem%20Analysis/Business%20Goals%20and%20Drivers/README.md)
 - [Stakeholder Concerns](./1.%20Problem%20Analysis/Stakeholder%20Concerns/README.md)
 - [Constraints](./1.%20Problem%20Analysis/Constraints/README.md)
