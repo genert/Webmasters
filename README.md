@@ -10,14 +10,14 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata.
 
 ## 1. Problem Analysis
 
-- [Prelude](1.%20Problem%20Analysis/Prelude/README.md)
-    - [Vision](1.%20Problem%20Analysis/Prelude/README.md#vision)
-- [Business Goals and Drivers](1.%20Problem%20Analysis/Business%20Goals%20and%20Drivers/README.md)
+- [Business Case](1.%20Problem%20Analysis/Business%20Case/README.md)
+    - [Business Drivers](1.%20Problem%20Analysis/Business%20Case/README.md#)
+    - [Business Goals][.]
 - [Stakeholder Concerns](./1.%20Problem%20Analysis/Stakeholder%20Concerns/README.md)
 - [Constraints](./1.%20Problem%20Analysis/Constraints/README.md)
 - [Business Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md)
     - [Functional Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md#functional-requirements)
-    - [Non-Functional Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md#non-functional-requirements)
+    - [Non-Functional Requirements NFRs](1.%20Problem%20Analysis/Business%20Requirements/README.md#non-functional-requirements)
 
 ## 2. Solution
 
@@ -36,6 +36,13 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata.
 - [C4 Models](./3.%20Views/C4%20Models/README.md)
 - [Communcation View](./3.%20Views/Communcation%20View/README.md)
 
+## Glossary
+
+- NPO / NP - Both acronyms are used to refer to non-profit organizations.
+- NFR - Non-functional requirement
+- MVP - Minimum Viable Product
+- UI - User Interface
+- UX - User Experience
 
 ## Resources
 
