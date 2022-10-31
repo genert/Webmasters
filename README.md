@@ -11,8 +11,8 @@ Entry to the O'Reilly Autumn 2022 Architectural Kata.
 ## 1. Problem Analysis
 
 - [Business Case](1.%20Problem%20Analysis/Business%20Case/README.md)
-    - [Business Drivers](1.%20Problem%20Analysis/Business%20Case/README.md#)
-    - [Business Goals][.]
+    - [Business Drivers](1.%20Problem%20Analysis/Business%20Case/README.md#business-drivers)
+    - [Business Goals](1.%20Problem%20Analysis/Business%20Case/README.md#business-goals)
 - [Stakeholder Concerns](./1.%20Problem%20Analysis/Stakeholder%20Concerns/README.md)
 - [Constraints](./1.%20Problem%20Analysis/Constraints/README.md)
 - [Business Requirements](1.%20Problem%20Analysis/Business%20Requirements/README.md)
