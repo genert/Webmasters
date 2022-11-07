@@ -5,11 +5,24 @@
 
 ## Key Architectural Characteristics
 
-The key architectural characteristics that were identified help us to select and overall architecture style. The top three are shown in bold and with a ^.
+The topkey architectural characteristics that were identified help us to select and overall architecture style. 
 
-- key
+- Availability
+- Fault tolerance
+- Security
+- Data integrity
+- Workflow
+- Abstraction
+
+The top 3 of them are:
+
+- **Fault tolerance**
+- **Workflow**
+- **Abstraction**
 
 ## Architecture Capabilities Comparison
+
+![architecture style](../../assets/images/architecture_style.png)
 
 ## Architecture Capabilities Analysis
 
