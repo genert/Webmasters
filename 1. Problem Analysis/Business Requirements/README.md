@@ -61,13 +61,13 @@ Non-profit organizations (SH-3) must have ability to receive points donation.
 As system users gain points for interactions, both non-profit (SH-3) and for-profit organizations (SH-4) should have ability to create a storefront when they list rewards which can be redeemed by civilians (SH-1) and police officers (SH-2). 
 
 
-## FR007 Analytics
+### FR007 Analytics
 Connections between civilans and police officers must be tracked.
 
 Every police officer must have a count that displays how many connections they have made.
 
 
-## Non-Functional Requirements
+## Non-Functional Requirements (NFRs)
 
 ### NFR001 Ease of use
 Users should fulfill their taks in the system with ease.
