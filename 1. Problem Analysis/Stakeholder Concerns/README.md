@@ -3,12 +3,12 @@
 
 # Stakeholders
 
-In the original kata documentation, there are different stakeholders mentioned.
+In the original kata documentation, there are different stakeholders/users mentioned.
 
-- Private citizen
+- Civilian
 - Police officer
-- Charities
-- Retail Organizations
+- Charities (non-profit organization)
+- Retail Organizations (for-profit organization)
 
 ## Stakeholder Concerns
 
