@@ -16,8 +16,7 @@ Service options:
 
 - IAM (AWS Identity Access Management) - most likely for development, deployment, and similar
 - SSO (Single Sign On) - for development, deployment, and similar
-- Amazon Cognito - identity management for users of Farmacy Family
-- AWS Organisations - option for managing identity and access across Foods and Family
+- Amazon Cognito - identity management for users of Hey Blue
 
 ## Data Law & Compliance
 
