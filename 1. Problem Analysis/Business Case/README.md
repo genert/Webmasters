@@ -13,8 +13,8 @@ These positive interactions turn into points that the private citizen can use to
 
 What business drivers can we learn from the situation:
 
-- Lack of awareness/opportunities between police officers and local communities.
-- Lack of a way to turn opportunities between police officers and local communities into positive experiences (donations, purchasing items).
+1. Problem statement #1: Lack of awareness/opportunities between police officers and local communities.
+2. Problem statement #2: Lack of a way to turn opportunities between police officers and local communities into positive experiences (donations, purchasing items).
 
 ## Business Goals
 
