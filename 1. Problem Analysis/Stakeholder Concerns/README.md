@@ -22,4 +22,5 @@ These will be informative in deciding the [architectural characteristics](Archit
 | SH-2: Police Officer      | - Ease of use<br/>- Data protection<br/>- Can control visibility of their geolocation                          | Data Integrity, Abstraction, Fault-tolerance |
 | SH-3: Non-profit Organization             | - Analytics/reporting<br/>- Ability to create storefront                                         | Workflow |
 | SH-4: For-profit Organization | - Ability to create storefront<br/>- Affiliate support <br/>-Process payments for goods                                          | Workflow, Abstraction, Interoperability |
+| SH-5: Hey Blu app | - Analytics on interaction data in combination with other public data<br/>-Aggregate data to share with media outlets<br/>-Track all participation by zipcode                                          | Workflow, Abstraction  |
 
